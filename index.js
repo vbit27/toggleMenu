@@ -1,4 +1,4 @@
-function toggleMenu() {
+const toggleMenu = (() => {
   const menuItems = document.querySelectorAll('.main-menu');
 
   function display() {
@@ -8,6 +8,6 @@ function toggleMenu() {
   menuItems.forEach((item) => {
     item.addEventListener('click', display);
   });
-}
+})();
 
 module.esports.toggleMenu = toggleMenu;
