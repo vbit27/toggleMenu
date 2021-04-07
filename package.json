@@ -1,0 +1,22 @@
+{
+  "name": "togglemenu",
+  "version": "1.0.0",
+  "description": "toggle menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbit27/toggleMenu.git"
+  },
+  "keywords": [
+    "toggle"
+  ],
+  "author": "vasil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vbit27/toggleMenu/issues"
+  },
+  "homepage": "https://github.com/vbit27/toggleMenu#readme"
+}
